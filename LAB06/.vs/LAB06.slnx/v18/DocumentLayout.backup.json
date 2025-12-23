@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5731CDC5-DC72-466D-870F-F78DD24E3586}|..\\LAB06_4\\LAB06_4.vcxproj|C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_4\\LAB06_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56D8A54-A894-4C91-BC57-7F5842E47E07}|LAB06.vcxproj|C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06\\LAB06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A56D8A54-A894-4C91-BC57-7F5842E47E07}|LAB06.vcxproj|solutionrelative:LAB06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51278613-D352-436E-92FC-2386FE37E8DC}|..\\LAB06_2\\LAB06_2.vcxproj|C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_2\\LAB06_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007ADA4-E325-402E-9E56-2A5DA24904CA}|..\\LAB06_3\\LAB06_3.vcxproj|C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_3\\LAB06_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB06_4.cpp",
+              "DocumentMoniker": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_4\\LAB06_4.cpp",
+              "RelativeDocumentMoniker": "..\\LAB06_4\\LAB06_4.cpp",
+              "ToolTip": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_4\\LAB06_4.cpp*",
+              "RelativeToolTip": "..\\LAB06_4\\LAB06_4.cpp*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T10:02:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB06_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_3\\LAB06_3.cpp",
+              "RelativeDocumentMoniker": "..\\LAB06_3\\LAB06_3.cpp",
+              "ToolTip": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_3\\LAB06_3.cpp",
+              "RelativeToolTip": "..\\LAB06_3\\LAB06_3.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:20:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB06_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_2\\LAB06_2.cpp",
+              "RelativeDocumentMoniker": "..\\LAB06_2\\LAB06_2.cpp",
+              "ToolTip": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06_2\\LAB06_2.cpp",
+              "RelativeToolTip": "..\\LAB06_2\\LAB06_2.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:05:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB06.cpp",
+              "DocumentMoniker": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06\\LAB06.cpp",
+              "RelativeDocumentMoniker": "LAB06.cpp",
+              "ToolTip": "C:\\Users\\Nisapat Nunim\\MIIA0106-2025-A\\Lab\\MIIA0106-2025-A\\LAB06\\LAB06.cpp",
+              "RelativeToolTip": "LAB06.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T08:39:30.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

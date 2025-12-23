@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Enterprise\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LAB05_3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LAB05_3.cpp
+  LAB05_3.vcxproj -> C:\Users\Nisapat Nunim\MIIA0106-2025-A\Lab\LAB05-1\x64\Debug\LAB05_4.exe
